@@ -1,5 +1,5 @@
 # widgets
-![GitHub Logo](/images/logo.png)
+![Widget Logo](widget.png)
 
 ### what does it do
 
