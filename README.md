@@ -1,16 +1,17 @@
 # widgets
+![GitHub Logo](/images/logo.png)
 
-## what does it do
+### what does it do
 
-## what is it
+### what is it
 
-## technology used
+### technology used
 
-## ambition of project
+### ambition of project
 
-## stage
+### stage
 
-## known issues / thing not properly done 
+### known issues / thing not properly done 
 
 ## Table of Content
 - quick start
@@ -31,20 +32,20 @@
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 …or create a new repository on the command line
 
-<pre>
+```
 echo "# widgets" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/keeyanajones/widgets.git
-git push -u origin master
-                
+git push -u origin master                
+```
 
 …or push an existing repository from the command line
-
+```
 git remote add origin https://github.com/keeyanajones/widgets.git
 git push -u origin master
-</pre>
+```
 
 …or import code from another repository
 
